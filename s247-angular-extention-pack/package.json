@@ -1,0 +1,19 @@
+{
+  "name": "s247-angular-extention-pack",
+  "displayName": "s247-angular-extention-pack",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "8rin5x.onelinecomments", 
+    "Angular.ng-template", 
+    "dbaeumer.vscode-eslint", 
+    "ExodiusStudios.comment-anchors", 
+    "ritwickdey.LiveServer"
+  ]
+}
